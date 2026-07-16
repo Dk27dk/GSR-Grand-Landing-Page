@@ -49,18 +49,7 @@
     width:auto;
 }
 
-.logo-text{
-    font-family:'Poppins',sans-serif;
-    font-size:1.55rem;
-    font-weight:800;
-    text-transform:uppercase;
-    letter-spacing:2px;
-    white-space:nowrap;
 
-    color:#1E5FD8;
-    text-shadow:0 2px 8px rgba(30,95,216,.25);
-
-}
 
 /* Mobile */
 @media(max-width:768px){
